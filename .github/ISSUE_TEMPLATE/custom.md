@@ -1,6 +1,6 @@
 ---
 name: Custom issue template
-about: Criar Issue
+about: Criar Issue project
 title: ''
 labels: ''
 assignees: ''
