@@ -1,12 +1,3 @@
----
-name: Custom issue template
-about: Criar Issue project
-title: ''
-labels: ''
-assignees: ''
-
----
-
 ### Descrição:
 
 Setup inicial para desenvolvimento do frontend.
