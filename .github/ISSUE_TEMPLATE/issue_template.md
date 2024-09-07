@@ -1,3 +1,12 @@
+---
+name: Issue Template
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ### Descrição:
 
 Setup inicial para desenvolvimento do frontend.
